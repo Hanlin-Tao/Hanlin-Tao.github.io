@@ -1,16 +1,15 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/Hanlin-Tao)
+[![Hanlin_Tao](https://img.shields.io/badge/Hanlin_Tao-github-blue?logo=github)](https://github.com/Hanlin-Tao)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+He is currently studying for a bachelor's degree in computer science and technology at Sun Yat-sen University, China
 
 #### Email
-sli[at]cumt.edu.cn
+taohlin@mail2.sysu.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+B.E., Computer Science and Technology, Sun Yat-sen University, 2022—now.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Computer Vision, Natural Language Processing
 
